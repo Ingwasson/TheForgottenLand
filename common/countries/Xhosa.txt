@@ -1,0 +1,78 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 0  100  255 }
+revolutionary_colors = { 13 0 13 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	quantity_ideas
+	spy_ideas
+	diplomatic_ideas
+	humanist_ideas
+	economic_ideas
+	
+}
+
+historical_units = {
+	african_clubmen
+	bantu_tribal_warfare
+	bantu_plains_warfare
+	bantu_gunpowder_warfare
+	westernized_bantu
+	african_western_franchise_warfare
+	african_somali_cavalry
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_hussar
+	african_dragoon		
+}
+
+
+monarch_names = {
+	"Ntu #0" = 20
+	"Mnguni  #0" = 20
+	"Xhosa  #0" = 20
+	"Malangana  #0" = 20
+	"Nkosiyamntu  #0" = 20
+	"Tshawe  #0" = 20
+	"Ngcwangu #0" = 20
+	"Sikhomo #0" = 20
+	"Togu #0" = 20
+	"Ngconde  #0" = 20
+	"Tshiwo  #0" = 20
+	"Phalo  #0" = 20
+	"Gcaleka #0" = 20
+	"Rharhabe #0" = 20
+	
+	"Enzokuhle #0" = -1
+	"Alunamda #0" = -1
+	"Iminathi #0" = -1
+	"Melokuhle #0" = -1
+	"Othalive #0" = -1
+	"Likuwe #0" = -1
+	
+	
+}
+
+leader_names = {
+	Enzokuhle
+	Alunamda
+	Kungawo
+	Othalive
+	Melokuhle
+	Likuwe
+	Lingomso
+	Lubanzi
+	Iminathi
+	Luphawu
+}
+
+ship_names = {
+	Amatola Isandlwana Enzokuhle Alunamda
+	Kungawo Othalive Melokuhle Likuwe Lingomso Lubanzi
+	Iminathi Luphawu
+}

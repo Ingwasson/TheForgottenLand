@@ -1,6 +1,6 @@
 # - Mtetwa
 
-culture = nguni
+culture = mtetwa_culture
 religion = shamanism #Fetishism
 capital = "Mtetwa"
 native_size = 50

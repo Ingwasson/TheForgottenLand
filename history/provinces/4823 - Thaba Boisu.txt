@@ -1,6 +1,6 @@
 # - Graaff-Reinet
 
-culture = nguni
+culture = sotho
 religion = shamanism #Fetishism
 capital = "Thaba Boisu"
 trade_goods = unknown

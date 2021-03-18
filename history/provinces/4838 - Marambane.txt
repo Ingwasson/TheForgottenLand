@@ -1,6 +1,6 @@
 # - Graaff-Reinet
 
-culture = nguni
+culture = swatini
 religion = shamanism #Fetishism
 capital = "Marambane"
 trade_goods = unknown

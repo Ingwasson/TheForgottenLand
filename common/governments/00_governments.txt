@@ -408,6 +408,7 @@ tribal = {
 	reform_levels = {
 		tribal_administration = {
 			reforms = {
+				bantu_tribe
 				steppe_horde
 				tribal_federation
 				tribal_despotism

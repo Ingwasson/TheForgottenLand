@@ -1,8 +1,8 @@
 #1180 - Transkei
 
-culture = nguni
+culture = xhosa_culture
 religion = shamanism #Fetishism
-capital = "Thembu"
+capital = "uMathule"
 native_size = 70
 trade_goods = unknown
 hre = no

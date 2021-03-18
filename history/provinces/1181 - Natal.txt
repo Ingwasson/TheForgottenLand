@@ -1,6 +1,6 @@
 #1181 - Natal
 
-culture = nguni
+culture = mtetwa_culture
 religion = shamanism #Fetishism
 capital = "Magulu"
 native_size = 50
