@@ -1,8 +1,8 @@
 # - Graaff-Reinet
 
-culture = nguni
+culture = pedi
 religion = shamanism #Fetishism
-capital = "Graaff-Reinet"
+capital = "Gazankulu"
 trade_goods = unknown
 hre = no
 base_tax = 2 

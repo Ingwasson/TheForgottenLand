@@ -1,8 +1,8 @@
 #1179 - Little Karoo
 
-culture = khoisan
+culture = Nama
 religion = shamanism #Fetishism
-capital = "Swellendam"
+capital = "Outeniqua"
 trade_goods = unknown
 hre = no
 base_tax = 2 

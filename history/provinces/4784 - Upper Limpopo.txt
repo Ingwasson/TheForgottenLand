@@ -1,8 +1,8 @@
 #9003 - Upper Limpopo
 
-culture = nguni
+culture = pedi
 religion = shamanism #Fetishism
-capital = "Polokwane"
+capital = "Mapungubwe"
 trade_goods = unknown
 hre = no
 base_tax = 1
@@ -12,3 +12,4 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 1
 discovered_by = east_african
+center_of_trade = 1
