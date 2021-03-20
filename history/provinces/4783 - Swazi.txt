@@ -1,8 +1,8 @@
 #9002 - Swazi
 
-culture = nguni
+culture = swatini
 religion = shamanism #Fetishism
-capital = "Mbabane"
+capital = "Cashan"
 trade_goods = unknown
 hre = no
 base_tax = 1

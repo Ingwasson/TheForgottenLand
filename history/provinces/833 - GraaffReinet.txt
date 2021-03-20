@@ -1,8 +1,8 @@
 # - Graaff-Reinet
 
-culture = nguni
+culture = KhoeKhoe
 religion = shamanism #Fetishism
-capital = "Graaff-Reinet"
+capital = "Tsitsikama"
 trade_goods = unknown
 hre = no
 base_tax = 2 
@@ -11,6 +11,7 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 1
+center_of_trade = 1
 
 1481.1.1 = { discovered_by = POR } # Bartolomeu Dias
 1786.7.19 = { 

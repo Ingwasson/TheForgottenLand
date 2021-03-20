@@ -1,8 +1,8 @@
 # - Senqu
 
-culture = khoisan
+culture = San
 religion = shamanism #Fetishism
-capital = "Senqu"
+capital = "Khai-ma"
 trade_goods = unknown
 hre = no
 base_tax = 1 

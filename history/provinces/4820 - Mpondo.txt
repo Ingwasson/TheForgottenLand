@@ -1,11 +1,11 @@
 # - Graaff-Reinet
 
-culture = nguni
+culture = xhosa_culture
 religion = shamanism #Fetishism
 capital = "Mpondo"
 trade_goods = unknown
 hre = no
-base_tax = 1 
+base_tax = 2 
 base_production = 2
 base_manpower = 1
 native_size = 5

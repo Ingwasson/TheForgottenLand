@@ -1,8 +1,8 @@
 #1800 - Limpopo
 
-culture = nguni
+culture = machangana
 religion = shamanism #Fetishism
-capital = "Gaza"
+capital = "Mopani"
 trade_goods = unknown
 hre = no
 base_tax = 1
