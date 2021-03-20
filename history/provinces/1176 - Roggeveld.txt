@@ -1,8 +1,8 @@
 #1176 - Roggeveld
 
-culture = khoisan
+culture = San
 religion = shamanism #Fetishism
-capital = "Roggeveld"
+capital = "Hantam"
 trade_goods = unknown
 hre = no
 base_tax = 1 

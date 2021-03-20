@@ -1,8 +1,8 @@
 #9000 - Transvaal
 
-culture = nguni
+culture = tswana
 religion = shamanism #Fetishism
-capital = "Pretoria"
+capital = "Gauteng"
 trade_goods = unknown
 hre = no
 base_tax = 2
@@ -11,3 +11,4 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
+center_of_trade = 1

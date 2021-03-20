@@ -1,6 +1,6 @@
-#1175 - Lesser Namaqualand
+#1175 - Nama Khoi
 
-culture = khoisan
+culture = Nama
 religion = shamanism #Fetishism
 capital = "Lesser Namaqualand"
 trade_goods = unknown

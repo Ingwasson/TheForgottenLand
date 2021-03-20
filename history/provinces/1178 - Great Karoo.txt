@@ -1,8 +1,8 @@
 #1178 - Great Karoo
 
-culture = khoisan
+culture = San 
 religion = shamanism #Fetishism
-capital = "Beaufort"
+capital = "Xam"
 trade_goods = unknown
 hre = no
 base_tax = 3 
