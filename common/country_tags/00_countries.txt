@@ -437,6 +437,11 @@ AHK = "countries/Antahkarana.txt"
 BIA = "countries/Boina.txt"
 TMH = "countries/Tsimihety.txt"
 MGR = "countries/Madagascar.txt"
+XHO = "countries/Xhosa.txt"
+MTE = "countries/Mtetwa.txt"
+LES = "countries/Lesotho.txt"
+ESW = "countries/Eswatini.txt"
+
 
 #East African Additions
 

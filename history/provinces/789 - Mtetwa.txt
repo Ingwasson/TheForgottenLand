@@ -1,16 +1,26 @@
 # - Mtetwa
-
+add_core = MTE
+owner = MTE
+controller = MTE
 culture = mtetwa_culture
 religion = shamanism #Fetishism
 capital = "Mtetwa"
-native_size = 50
-trade_goods = unknown
+trade_goods = ivory
 hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-native_ferocity = 4
-native_hostileness = 9 
+
+is_city = yes
+discovered_by = XHO
+discovered_by = ESW	
+discovered_by = MTE
+discovered_by = LES
+discovered_by = TSW
+discovered_by = BPE
+discovered_by = XIS
+discovered_by = KOE
+discovered_by = NAM
 
 1497.12.25 = { discovered_by = POR } #Vasco Da Gama
 1816.1.1 = { capital = "Bulawayo" } # Zulu Kingdom

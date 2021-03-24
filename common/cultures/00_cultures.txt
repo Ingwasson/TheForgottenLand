@@ -7795,7 +7795,7 @@ nguni_new = {
 	}
 	xhosa_culture = {
 		dynasty_names = { 
-			AmaGqunukhweba AmaRigwa AmaHigwa AmaMpondo AmaMpondomise AmaBomvana AmaFingo AmaXesibe AmaQadi AmaFingwa
+			AmaGqunukhweba AmaRigwa AmaHigwa AmaMpondo AmaMpondomise AmaBomvana AmaFingo AmaXesibe AmaQadi AmaFingwa AmaXhosa
 		}
 		male_names = {
 			Themba Uuka Thandiwe Nomlanga Bathandwa Daluxolo Esihle Fezile Gcobani Akhona Anathi Aphiwe Aviwe Ayabonga Bhutana Bonginkosi Bulelani
@@ -7803,7 +7803,7 @@ nguni_new = {
 			 
 			}
 		female_names = { 
-			Anathi 	Akhona	Aphiwe Babalwa Bathandwa Buhle Bongani Esihle Fezeka Fundiswa
+			Anathi 	Akhona	Aphiwe Babalwa Bathandwa Buhle Esihle Fezeka Fundiswa
 			
 			}
 	}

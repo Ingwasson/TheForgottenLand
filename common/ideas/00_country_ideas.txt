@@ -17602,16 +17602,24 @@ south_african_ideas = {
 	trigger = {
 		OR = {
 		
-			primary_culture = khoisan
-			primary_culture = nguni
+			primary_culture = KhoeKhoe
+			primary_culture = San
+			primary_culture = Nama
+			primary_culture = sotho
+			primary_culture = tswana
+			primary_culture = pedi
+			primary_culture = zulu_culture
+			primary_culture = xhosa_culture
+			primary_culture = swatini
+			primary_culture = mtetwa_culture
 		
 		}
 	}
 	free = yes
 	
-	tribal_absorption_san = {
+	agriculture_san = {
 	
-		native_assimilation = 0.5
+		development_cost = -0.1
 	
 	}
 	
@@ -17633,15 +17641,15 @@ south_african_ideas = {
 	
 	}
 	
-	stable_society_san = {
+	battle_poetry_san = {
 	
-		global_unrest = -1
+		power_projection_from_insults = 1
 	
 	}
 	
-	bantu_multiculturalism_san = {
+	impi_san = {
 	
-		num_accepted_cultures = 2
+		fire_damage_received = -0.10	
 	
 	}
 	

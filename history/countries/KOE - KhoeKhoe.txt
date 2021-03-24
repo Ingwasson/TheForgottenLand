@@ -1,0 +1,22 @@
+government = tribal
+add_government_reform = khoi_tribe
+primary_culture = KhoeKhoe
+religion = shamanism
+technology_group = central_african
+unit_type = sub_saharan
+capital = 833	# Tsitsikama
+unlock_cult = mwari_cult
+unlock_cult = central_african_ancestor_cult
+unlock_cult = cwezi_cult
+
+1444.1.1 = {
+	monarch = {
+		name = "Khuma"
+		dynasty = "Kebbi-an"
+		dip = 4
+		adm = 2
+		mil = 4
+	}
+}
+
+
