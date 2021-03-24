@@ -1,13 +1,25 @@
 #9002 - Swazi
-
+add_core = ESW
+owner = ESW
+controller = ESW
 culture = swatini
 religion = shamanism #Fetishism
 capital = "Cashan"
-trade_goods = unknown
+trade_goods = livestock
+latent_trade_goods = {
+	coal
+}
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-native_size = 20
-native_ferocity = 4
-native_hostileness = 9
+is_city = yes
+discovered_by = XHO
+discovered_by = ESW	
+discovered_by = MTE
+discovered_by = LES
+discovered_by = TSW
+discovered_by = BPE
+discovered_by = XIS
+discovered_by = KOE
+discovered_by = NAM
