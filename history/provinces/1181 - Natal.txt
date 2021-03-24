@@ -2,6 +2,7 @@
 add_core = MTE
 owner = MTE
 controller = MTE
+
 culture = mtetwa_culture
 religion = shamanism #Fetishism
 capital = "Magulu"
