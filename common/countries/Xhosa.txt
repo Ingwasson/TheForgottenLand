@@ -32,7 +32,6 @@ historical_units = {
 
 
 monarch_names = {
-	" #0" = 20
 	"Themba #0" = 20
 	"Uuka #0" = 20
 	"Thandiwe #0" = 20

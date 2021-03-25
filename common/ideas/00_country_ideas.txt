@@ -17612,6 +17612,7 @@ south_african_ideas = {
 			primary_culture = xhosa_culture
 			primary_culture = swatini
 			primary_culture = mtetwa_culture
+			primary_culture = machangana
 		
 		}
 	}
