@@ -441,6 +441,11 @@ XHO = "countries/Xhosa.txt"
 MTE = "countries/Mtetwa.txt"
 LES = "countries/Lesotho.txt"
 ESW = "countries/Eswatini.txt"
+XIS = "countries/Xistonga.txt"
+TSW = "countries/Botswana.txt"
+BPE = "countries/Bopedi.txt"
+KOE = "countries/KhoeKhoe.txt"
+NAM = "countries/Nama.txt"
 
 
 #East African Additions
